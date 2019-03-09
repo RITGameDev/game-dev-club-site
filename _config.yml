@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   for students passionate about game development with monthly game 
   jams and weekly presentations on topics that are voted on each week. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "//ritgamedev.club" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ritgamedev
 github_username:  RITGameDev
 

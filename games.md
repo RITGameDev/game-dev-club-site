@@ -2,13 +2,14 @@
 layout: default
 ---
 
-
-# This is the games page!
+# Student Games Showcase
 
 Check out some of the content that our students have made! 
 
+Do you have a game that you want to see on our club page? Just make a PR to your website with your new post info! You can do this here: [https://github.com/RITGameDev/game-dev-club-site](https://github.com/RITGameDev/game-dev-club-site)
+
 <div id="posts">
-  <h1>Posts</h1>
+  <h1>Games</h1>
 
   {% for post in site.posts %}
     <a href="{{ site.url }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
