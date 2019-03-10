@@ -16,3 +16,4 @@ Do your work on a seperate branch with a meaningful name, i.e. `update-location`
 When you are done with your changes, then simply make a pull request to `master` and the PR will undergo a review, and then be merged in if successful. 
 
 
+If you have a change to the core site (i.e. CSS stylings that effect more than just your post, layout options, etc) then feel free to make an issue with what you think should change! 
