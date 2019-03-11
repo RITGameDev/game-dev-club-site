@@ -6,19 +6,19 @@
 
 body {
   overflow-x:hidden;
-  /*background-color: white;*/
   background-color: #1f2529;
-  color: rgba(255,255,255,0.7);
+  color: rgba( 255, 255, 255,.9 );
 }
 
 h1, h2, h3, h4 {
   font-family: 'Overpass', sans-serif;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 p, ul, li {
   font-family: 'Source Sans Pro', sans-serif;
-  opacity: 0.7;
+  font-size: 16px;
+  opacity: 0.8;
 }
 
 #post-preview {
@@ -37,15 +37,14 @@ div.container {
     top: 0;
     width: 100%;
     position: sticky;
-    background-color: #1f2529;
-    /*background-color: white;*/
     z-index: 500;
     font-family: Raleway;
     margin: 0 auto;
   	padding-top: 2em;
     padding-bottom: 2em;
-  	text-align: center;
-    border-bottom: 3px solid rgba(0, 0, 0, .7);
+    text-align: center;
+    /* The color at the bottom of the nav bar */
+    border-bottom: 3px solid rgba(255, 255, 255, .9);
 }
 
 div.container a {
@@ -65,7 +64,7 @@ div.borderXwidth a:before, div.borderXwidth a:after {
     width: 0%;
     height: 2px;
     content: '';
-    background: #000;
+    background: #ffffff;
     transition: all 0.3s;
 }
 
@@ -80,8 +79,8 @@ div.borderXwidth a:after {
 }
 
 div.borderXwidth a:hover:before, div.borderXwidth a:hover:after {
-    opacity: 0.7;
-    width: 100%;
+  opacity: 0.9;
+  width: 100%;
 }
 
 /* Main Content */
@@ -102,9 +101,9 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after {
 
 /* Link styles */
 a {
-  color:#26C6DA;
-  font-family: 'Open Sans', sans-serif;
+  color:#00ffff;
   opacity: 0.8;
+  font-family: 'Open Sans', sans-serif;
   z-index: 10; /*or whatever number that is a positive real number. */
   transition: color .3s ease;
   -moz-transition: color .3s ease;
@@ -115,8 +114,8 @@ a:hover {
 }
 
 a:active {
-  opacity: .5;
-  color:#26C6DA;
+  opacity: .7;
+  color:#00ffff;
 }
 
 a:link{
@@ -125,7 +124,7 @@ a:link{
 }
 
 a:visited{
-  opacity: .5;
+  opacity: .7;
   color:#00ffff;
 }
 
@@ -142,7 +141,7 @@ footer img {
   height: 28px;
   padding-left: 5px;
   padding-right: 5px;
-  filter: brightness(0%) opacity(70%);
+  filter: brightness(100%) opacity(80%);
 }
 
 /*
