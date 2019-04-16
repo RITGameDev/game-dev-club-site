@@ -33,6 +33,10 @@ There is no prior knowledge required to come to the club! New members are always
 
 {% endfor %} <!-- End of Event data -->
 
+## <i class="material-icons">chat</i> Come and chat! 
+
+<iframe src="https://discordapp.com/widget?id=377989609205792778&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 <!---
 ## <i class="material-icons">highlight</i> Meeting Topics
 
