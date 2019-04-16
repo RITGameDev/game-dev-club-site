@@ -1,0 +1,12 @@
+[
+	{
+        "title": "Intro to UE4 Blueprints",
+        "banner": "media/UE_Logo_Icon_Black.png",
+		"description": "This was a small intro to how blueprints in Unreal Engine 4 work!"
+	},
+	{
+		"title": "Scriptable Objects in Unity",
+        "banner": "media/unity-logo-white.png",
+		"description": "Learn how to effectively use scriptable objects in your Unity game!"
+	}
+]

@@ -4,10 +4,17 @@ layout: default
 
 <img id="projectBanner" src="media/rgdc_logo.png"/>
 
+## <i class="material-icons">help_outline</i> Who are we?
+
 RIT Game Dev club provides an open, creative, learning environment for students passionate about game development with monthly game jams and weekly presentations on topics that are voted on each week.
 
+## <i class="material-icons">accessibility_new</i> But... I don't know how to make games?
+
+There is no prior knowledge required to come to the club! New members are always welcome, from Computer Science to Imaging Science. 
+
+
 <!-- List of events -->
-# Upcoming Events
+## <i class="material-icons">date_range</i> Upcoming Events
 {% for item in site.data.events %}
 
 {% if item.title %}
@@ -19,9 +26,29 @@ RIT Game Dev club provides an open, creative, learning environment for students 
 {% endif %}
 
 {% if item.image %}
-<img id="eventBanner" src="{{ item.image }}"/>
+<img id="eventBanner" src="{{ site.url }}\{{ item.image }}"/>
 {% endif %}
 
 {{ item.description }}
 
 {% endfor %} <!-- End of Event data -->
+
+<!---
+## <i class="material-icons">highlight</i> Meeting Topics
+
+{% for item in site.data.meetings %}
+
+{% if item.title %}
+### {{ item.title }} 
+{% endif %}
+
+{% if item.banner %}
+<img id="eventBanner" src="{{ site.url }}\{{ item.banner }}"/>
+{% endif %}
+
+{% if item.description %}
+{{ item.description }}
+{% endif %}
+
+{% endfor %} 
+--->
