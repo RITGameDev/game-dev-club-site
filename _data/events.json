@@ -3,13 +3,13 @@
 		"title": "Weekly Meeting",
 		"location": "Magic Theater (MSS)",
 		"time": "Tuesdays at 7 pm",
-		"description": "Our weekly meetings consist of a workshop period and a project sharing portion where you can gather feedback on any work you have been doing!"
+		"description": "Weekly meetings will start back up in the Fall. In the mean time, join our Discord to learn more about the club"
 	},
 	{
-		"title": "Game Jam!",
+		"title": "Game Jam",
 		"location": "MSS 2150",
 		"banner": "images/test.png",
 		"time": "April 5 - 9",
-		"description": "Come and join the club for a game jam! Sponsored by Unity with swag and other prizes! Get some swag and submit your game to be judged on Tuesday! The theme is GREEN"
+		"description": "Thanks to everyone who participated and to Unity for sponsoring this event!"
 	}
 ]

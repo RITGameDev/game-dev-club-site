@@ -16,9 +16,9 @@
 title: RIT Game Dev Club
 email: ritgamedevclub@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  RIT Game Dev club provides an open, creative, learning environment
-  for students passionate about game development with monthly game 
-  jams and weekly presentations on topics that are voted on each week. 
+  RIT Game Dev club provides an open, creative, learning environment 
+  for students passionate about game development with weekly 
+  presentations on various topics and game jams every semester
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "//ritgamedev.club" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ritgamedev
