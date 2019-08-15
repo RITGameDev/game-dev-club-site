@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Big Wave"
-date:   2019-08-15
+date:   2019-08-15 17:20:19 -0500
 categories: games
 author: Argzero (AKA Forrest Shooster)
 ---
