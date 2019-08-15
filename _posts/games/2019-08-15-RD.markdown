@@ -18,7 +18,7 @@ After the challenge is completed, the game will have additional obstacles added.
 WARNING: Do not play if you are sensitive to bright changing colors.
 The current online version will always be free. Email forrest@argzero.org if you're a friend / family and want to play the game!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gGaupPZ3JV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="755" height="472" src="https://www.youtube.com/embed/gGaupPZ3JV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Argzero Technologies, LLC](https://argzero.org/)
 * [Forrest's GitHub](https://github.com/Argzero)
