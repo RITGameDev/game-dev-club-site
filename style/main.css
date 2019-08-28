@@ -31,6 +31,18 @@ p, ul, li {
     opacity: 0.8;
 }
 
+.container.borderXwidth a div#navText {
+  display: flex;
+}
+
+#navText .material-icons {
+  padding-right: .125em;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
 
 /** CSS transitions from here: https://codepen.io/EvyatarDa/pen/waKXMd */
 
@@ -139,7 +151,7 @@ footer {
 }
 
 #navText {
-  display: inline-block;
+  display: flex;
 }
 
 
