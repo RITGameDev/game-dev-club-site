@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Project Reticle Dodge"
+date:   2019-08-15 17:20:19 -0500
+categories: games
+author: Argzero (AKA Forrest Shooster)
+---
+
+![RD Title image]({{ site.url }}\media\post_content\RDMImg.png)
+
+
+## [itch.io Page](https://https://argzero.itch.io/reticle-dodge)
+
+Spiritually inspired by Super Hexagon, Reticle Dodge! is a game involving avoiding various types of projectiles whilst you grow and shrink, the camera zooms in and out, the world, you, and your camera are spinning, and the obstacles only ever get faster and more difficult. Take on a crazy challenge and seek to outdo the competition! Soon to have a built in leaderboard. Right now the high score is 100 points. Get 120 points, screenshot it, and email the screenshot to forrest@argzero.org to get a special prize! Prize is only available to the first person to successfully complete the challenge!
+
+After the challenge is completed, the game will have additional obstacles added. A new challenge will be added with every update to the game!
+
+WARNING: Do not play if you are sensitive to bright changing colors.
+The current online version will always be free. Email forrest@argzero.org if you're a friend / family and want to play the game!
+
+<iframe width="755" height="472" src="https://www.youtube.com/embed/gGaupPZ3JV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [Argzero Technologies, LLC](https://argzero.org/)
+* [Forrest's GitHub](https://github.com/Argzero)
+* [Forrest's Twitter](https://twitter.com/ForrestShooster)
