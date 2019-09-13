@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Pixel Art"
+date: 2019-09-12 15:26:19 -0500
+categories: resources
+author: Mark Lipina
+---
+
+Games origionally used Pixel Art out of necessity but the style remains in use because of it's convenience, lower cost, and nostalgia.
+
+In this presentation we'll go over
+ * A brief history of Pixel Art
+ * Pixel Art specific techniques
+ * General Game art concepts
+ * Importing Sprites into Unity
+ 
+## Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHo61GXdfW9zGA33iedeJ8nocPN3vodnT37GEQaAMR5l90VKE9IZfqFnY95I9T7OFFbOyI8wzYl0pm/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Tomato Man
+
+![Tomato Man]({{ site.url }}\media\post_content\TomatoMan.png)
+
+
+### Import settings
+
+Texture Type : Sprite(2D and UI)
+
+Sprite Mode : Single
+
+Filer Mode : Point(no filter)
+
+Format: RGBA 32-bit
+
+
+Then Drag into scene to create an object
+
+## Tomato Man Fast
+
+![Tomato Man]({{ site.url }}\media\post_content\TomatoManFast.png)
+
+### Import settings
+
+Texture Type : Sprite(2D and UI)
+
+Sprite Mode : Multiple
+
+Filer Mode : Point(no filter)
+
+Format: RGBA 32-bit
+
+### Sprite Editor
+
+Slice > Grid by cell count
+
+C: 4    R: 1
+
+SLICE!
+
+Select all sliced sprites and drag into scene to create animated object
+
+## PlayerController Class for Unity
+
+```javascript
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[RequireComponent(typeof(Rigidbody2D))]
+public class PlayerController : MonoBehaviour
+{
+    [SerializeField] private float _speed = 10;
+    [SerializeField] private float _jumpVelocity = 500;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        int hvel = 0;
+        if (Input.GetKey(KeyCode.A))
+        {
+            //GetComponent<Rigidbody2D>().AddForce(new Vector2(-100, 0));
+            hvel -= 1;
+        }
+        if (Input.GetKey(KeyCode.D))
+        {
+            hvel += 1;
+        }
+        GetComponent<Rigidbody2D>().velocity = new Vector2(hvel * _speed, GetComponent<Rigidbody2D>().velocity.y);
+
+        if (Input.GetKeyDown(KeyCode.W))
+        {
+            GetComponent<Rigidbody2D>().AddForce(new Vector2(0, _jumpVelocity));
+        }
+
+    }
+}
+```
