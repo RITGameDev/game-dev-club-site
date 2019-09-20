@@ -4,6 +4,7 @@ title:  "Welcome 2019"
 date: 2019-08-29 9:27:19 -0500
 categories: resources
 author: Dane Sherman
+excerpt: Welcome to RGDC!
 ---
 
 Welcome to RGDC!
