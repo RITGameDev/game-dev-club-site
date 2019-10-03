@@ -10,7 +10,7 @@ Juice is usually an audio/visual effect that provides the player more feedback f
 
 ## Presentation
 
-Slides will be posted during or after the meeting
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRq3r8w_kCv25TlPOvm3GR5om3YGN31Wcy52HGmQ9Qb9OakRf_iKODTtmx7jD73BO4gCiRhILlk91qV/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Demo
 
