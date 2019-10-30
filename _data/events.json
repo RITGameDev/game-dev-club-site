@@ -7,9 +7,9 @@
 	},
 	{
 		"title": "Game Jam",
-		"location": "MSS 2150",
-		"banner": "images/test.png",
-		"time": "April 5 - 9",
-		"description": "Thanks to everyone who participated and to Unity for sponsoring this event!"
+		"location": "MSS 2150 and 2170",
+		"image": "media/GameJam.png",
+		"time": "November 1-3",
+		"description": "Our goal with this Jam is provide a place for newcomers or anyone that want to learn something new about game development. Mentorship will be available throughout the Jam. If you're interested in mentoring during the Jam, contact a leads member in the discord. "
 	}
 ]
