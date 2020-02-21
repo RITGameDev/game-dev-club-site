@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Club Presenations
+# Club Presentations
 
 Check out our club presentations as well as follow up resources and challenges
 
@@ -15,6 +15,7 @@ Check out our club presentations as well as follow up resources and challenges
         {{ post.date | date: date_format }}
       </time></p>
     <p> {{ post.excerpt }} </p>
+    <br>
   {% endfor %}
 
 </div> <!-- End Posts -->
