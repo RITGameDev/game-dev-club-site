@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "PICO-8"
+date: 2020-09-03 15:26:19 -0500s
+categories: resources
+author: Kayleigh East
+---
+
+Pico-8 is a great beginner engine and fantasy console that mimics the constraints of old consoles. 
+
+## Presentation
+
+<!--width="640" height="389"-->
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHkU4tbvv8eorCrfxvsEEKen6f7RxDWAl6UGLdOwmvchQNO6fc20KqNauTWsM6q5I6o0OGeW97GqlW/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### [Demo code](https://github.com/RITGameDev/Pico-8-Demo/blob/master/RGDC-Demo-Code)
+
+## Zoom Recording
+
+
+
+## Links
+[Cheat Sheet](https://www.lexaloffle.com/bbs/?tid=28207)
+
+[Nerdy Teachers Tutorial](https://nerdyteachers.com/Explain/Platformer/)
+
+[Pico-8](https://www.lexaloffle.com/pico-8.php)
+
+[Pico-8 Wikia](https://pico-8.fandom.com/wiki/Pico-8_Wikia)
+
+[Game Development with Pico-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
