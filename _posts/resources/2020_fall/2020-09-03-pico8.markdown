@@ -16,9 +16,7 @@ Pico-8 is a great beginner engine and fantasy console that mimics the constraint
 
 ### [Demo code](https://github.com/RITGameDev/Pico-8-Demo/blob/master/RGDC-Demo-Code)
 
-## Zoom Recording
-
-
+## [Zoom Recording](https://drive.google.com/file/d/1HnjzAdCNWHuNHQoT7Itungy6AhY6jPmw/view?usp=sharing)
 
 ## Links
 [Cheat Sheet](https://www.lexaloffle.com/bbs/?tid=28207)
