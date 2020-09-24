@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Intro to Unreal Engine"
-date: 2019-09-19 15:26:19 -0500
+date: 2020-09-24 15:26:19 -0500
 categories: resources
-author: Davis Snider
+author: Davis Snider & Mark Lipina
 ---
 
 Unreal Engine 4 is a complete suite of development tools made for anyone working with real-time technology. From enterprise applications and cinematic experiences to high-quality games across PC, console, mobile, VR and AR.
@@ -16,7 +16,7 @@ In this presentation we'll go over
  
 ## Presentation
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs-v8Peznn8R7XseJaSslEYbuPL-o1AYA9gZI_ago5X7J79t3fHtsGa8hM2pAWLahn3hA-xEnyq9FK/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9XYM-vi6OQmrawFlgsIgADI64jl28I1DP0cwoB6_f5A7Txphd3qbdRPxsIvGsEW5IQsT0iMkkWsFu/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Links
 
