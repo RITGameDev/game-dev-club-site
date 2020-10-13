@@ -14,6 +14,8 @@ In this presentation we'll go over
  * The Event Graph
  * Input Systems
  
+## [Zoom Recording](https://drive.google.com/file/d/1goJej36zR7nl8fvq5u3qx0ymu8GJ-FMh/view?usp=sharing)
+
 ## Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9XYM-vi6OQmrawFlgsIgADI64jl28I1DP0cwoB6_f5A7Txphd3qbdRPxsIvGsEW5IQsT0iMkkWsFu/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -10,11 +10,13 @@ Unity is a cross-platform game engine used by both indie developers and professi
 
 In this presentation we'll go over
  * The Unity Interface
- * Importing Assests
- * Gameobjects and Components 
+ * Importing Assets
+ * GameObjects and Components 
  * Using scripts 
  * Exporting Projects
  
+## [Zoom Recording](https://drive.google.com/file/d/1KC50H30LT6la1dlGqN5pbNGvrCrwmm1y/view?usp=sharing)
+
 ## Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmYFsVJUyliDQusJlK8WjDE7AfDMrUwHPpR_qy_8uFeZ4uOQg6AfBLTl7UR_w1cUY_KI2Yg55fJkA3/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -27,7 +29,7 @@ In this presentation we'll go over
 
 [Documentation](https://docs.unity3d.com/Manual/index.html)
 
-[Monobehavior Method Execution](http://2.bp.blogspot.com/-VvuOwreuVis/UI_1OEWarXI/AAAAAAAAAGk/Q91ebHRfEDs/s1600/unity+lifetime.png)
+[MonoBehavior Method Execution](http://2.bp.blogspot.com/-VvuOwreuVis/UI_1OEWarXI/AAAAAAAAAGk/Q91ebHRfEDs/s1600/unity+lifetime.png)
 
 [In depth definitions](https://www.cs.umd.edu/class/spring2018/cmsc425/Lects/lect03-unity.pdf)
 
@@ -35,9 +37,6 @@ In this presentation we'll go over
 
 [Unity: Learn](https://learn.unity.com/)
 
-[Youtube Unity](https://www.youtube.com/user/Unity3D)
+[YouTube Unity](https://www.youtube.com/user/Unity3D)
 
 [Lynda tutorials](https://www.lynda.com/Unity-training-tutorials/1242-0.html)
-
-"It is important to draw wisdom from different places. If you take it from only one place it becomes rigid and stale." 
--Iroh

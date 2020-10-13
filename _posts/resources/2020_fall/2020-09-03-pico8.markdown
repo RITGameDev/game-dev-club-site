@@ -8,6 +8,8 @@ author: Kayleigh East
 
 Pico-8 is a great beginner engine and fantasy console that mimics the constraints of old consoles. 
 
+## [Zoom Recording](https://drive.google.com/file/d/1HnjzAdCNWHuNHQoT7Itungy6AhY6jPmw/view?usp=sharing)
+
 ## Presentation
 
 <!--width="640" height="389"-->
@@ -15,8 +17,6 @@ Pico-8 is a great beginner engine and fantasy console that mimics the constraint
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHkU4tbvv8eorCrfxvsEEKen6f7RxDWAl6UGLdOwmvchQNO6fc20KqNauTWsM6q5I6o0OGeW97GqlW/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### [Demo code](https://github.com/RITGameDev/Pico-8-Demo/blob/master/RGDC-Demo-Code)
-
-## [Zoom Recording](https://drive.google.com/file/d/1HnjzAdCNWHuNHQoT7Itungy6AhY6jPmw/view?usp=sharing)
 
 ## Links
 [Cheat Sheet](https://www.lexaloffle.com/bbs/?tid=28207)

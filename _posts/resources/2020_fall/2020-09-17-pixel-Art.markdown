@@ -6,7 +6,7 @@ categories: resources
 author: Mark Lipina & Kayleigh East
 ---
 
-Games origionally used Pixel Art out of necessity but the style remains in use because of it's convenience, lower cost, and nostalgia.
+Games originally used Pixel Art out of necessity but the style remains in use because of it's convenience, lower cost, and nostalgia.
 
 In this presentation we'll go over
  * A brief history of Pixel Art
@@ -14,6 +14,8 @@ In this presentation we'll go over
  * General Game art concepts
  * Importing Sprites into Unity
  
+## [Zoom Recording 1](https://drive.google.com/file/d/15QxeBUB4M7OKjfvDkTdLGofQwl8wvqJp/view?usp=sharing)
+## [Zoom Recording 2](https://drive.google.com/file/d/1Bqzwpt93DZvqXBy6CyCPnsEoq3rbDdoM/view?usp=sharing)
 ## Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHo61GXdfW9zGA33iedeJ8nocPN3vodnT37GEQaAMR5l90VKE9IZfqFnY95I9T7OFFbOyI8wzYl0pm/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
