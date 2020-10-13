@@ -1,15 +1,26 @@
 [
 	{
 		"title": "Weekly Meeting",
-		"location": "GOL-1400",
+		"location": "ZOOM",
 		"time": "Thursdays at 7 pm",
-		"description": "Weekly meetings all semester"
+		"description": "New topics each week followed by project sharing and social time. Check out the resources tab to see what topics we've covered in the past. Members of the community are encouraged to reach out for presenting on topics that they're passionate about."
 	},
 	{
-		"title": "Game Jam",
-		"location": "GOL 1400",
-		"image": "media/SecretJam.png",
-		"time": "February 21st - 22nd",
-		"description": "For this game jam we're hoping to create a fun environment for students to come out and make games. \n\n We'll be mass ordering food again, so bring $5 if you want to get dinner with us. \n\n We end Saturday at midnight so you can go home and get some rest"
+		"title": "Game Night",
+		"location": "Discord",
+		"time": "Wednesdays at 7 pm",
+		"description": "Hang out and play social video games. This usually means we play Jackbox and more recently Among Us"
+	},
+	{
+		"title": "Game Club",
+		"location": "Discord on #game-club-voice",
+		"time": "Every other Saturday at 2 pm ",
+		"description": "Kinda like a book club, but for gamers. Every few weeks we vote on a game to play and then discuss. We've played games like Metroid Prime, Furi, Enter the Gungeon, and many others."
+	},
+	{
+		"title": "Virtual Game Jam",
+		"location": "[ Undisclosed Location ]",
+		"time": "December 11th - 13th",
+		"description": "We've moved the Jam to after finals this semester. More info coming soon."
 	}
 ]

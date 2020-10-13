@@ -15,7 +15,7 @@ Check out our club presentations as well as follow up resources and challenges
         {{ post.date | date: date_format }}
       </time></p>
     <p> {{ post.excerpt }} </p>
-    <br>
+    <hr>
   {% endfor %}
 
 </div> <!-- End Posts -->

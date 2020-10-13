@@ -18,7 +18,7 @@ There is no prior knowledge required to come to the club! New members are always
 {% for item in site.data.events %}
 
 {% if item.title %}
-### {{ item.title }}
+# {{ item.title }}
 {% endif %}
 
 {% if item.time and item.location %}
@@ -30,8 +30,10 @@ There is no prior knowledge required to come to the club! New members are always
 {% endif %}
 
 {{ item.description }}
-
+<hr>
 {% endfor %} <!-- End of Event data -->
+
+
 
 ## <i class="material-icons">chat</i> Come and chat! 
 
