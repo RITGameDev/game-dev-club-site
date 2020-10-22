@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Modding"
+date: 2020-10-15 15:26:19 -0500
+categories: resources
+author: Jack Levitt
+---
+
+Modding can help you get a feel for industry-level code and architecture while quickly developing impactful gameplay features without the need for developing an entire game. 
+
+## Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTNfY4XmtOXS7qpIPpt4bEN7w8vOj6koqrtgnnESBEf7noqCg6n-bHz-pckqAHZ7vGbvU0sMsHPQ48/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Downloads
+
+[Harmony](https://github.com/pardeike/Harmony) 
+
+[Unity Doorstep](https://github.com/NeighTools/UnityDoorstop) - imbedded into Harmony
+
+[BepInEx](https://github.com/BepInEx/BepInEx) - Just unzip it, throw it into your Unity project, and run it once!
+
+[DnSpy](https://github.com/0xd4d/dnSpy) - This is just an application that'll help us get our mod on 
+
+[AssetStudio](https://github.com/Perfare/AssetStudio)
+)
+

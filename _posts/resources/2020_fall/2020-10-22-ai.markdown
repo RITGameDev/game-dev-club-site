@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "AI for Games"
+date: 2020-10-22 15:26:19 -0500
+categories: resources
+author: Andrew Brook
+---
+
+How to approach and develop AI in games. This includes techniques like Finite State Machines, Behavior Trees, and Hierarchical Task Networks. 
+
+## Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNTMFbmauO52CPPTwzpwABSV5xV3g1PvtvKvF1AhglQWvuDLyf0wub8cN4RtJhfxfYIU6MxnOIBdrA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Videos and Links
+
+*Three States and a Plan: the A.I. of F.E.A.R* - Jeff Orkin 
+([Article](http://alumni.media.mit.edu/~jorkin/gdc2006_orkin_jeff_fear.pdf))
+([GDC Vault](https://www.gdcvault.com/play/1013282/Three-States-and-a-Plan))
+
+*Game AI Pro 3 : Collected Wisdom of Game AI Professionals* - Steve Rabin
+([eBook](https://ebookcentral.proquest.com/lib/rit/detail.action?docID=5477192))
+([Amazon](https://www.amazon.com/Game-AI-Pro-Collected-Professionals/dp/1498742580))
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bbhJi0NBkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[AI and Games](https://www.youtube.com/user/tthompso) on YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nt1XmiDwxhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
