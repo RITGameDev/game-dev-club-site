@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "A GameDev Git Guide"
+date: 2021-02-04 15:26:19 -0500
+categories: resources
+author: Dane Sherman and Davis Snider
+---
+
+Source Control can be used to,, in this presentation we go over the basics of Git, how to use these concepts in GitKraken and then Git bash
+ 
+
+## Presentation
+<!--width="640" height="389"-->
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxaHm9q3f-SbBKehfiWK6_C3JpjUzzrMN6Ns9TviooMeAeaEOeah-nRIarQ79a6-qyAEq4s_KjUp0Q/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Links
+
+[Download git](https://git-scm.com/)
+
+[Download git kraken](https://www.gitkraken.com/)
+
+[RGDC Unity .gitignore](https://github.com/RITGameDev/unity-2d-template/blob/master/.gitignore)
+
+[Open source licenses](https://choosealicense.com/)
+
+[Atlassian git tutorial](https://www.atlassian.com/git/tutorials)
