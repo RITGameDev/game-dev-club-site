@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "AeLa - Getting from Student to Sustainable"
+date: 2021-03-25 15:26:19 -0500
+categories: resources
+author: Sam Cammarata, Noah Ratcliff, Aidan Markham
+---
+
+This week we welcome guest speakers from Aesthetician Labs, a local game development studio made up of former RIT students. You may have seen their game Crazy Platez in the arcade cabinet at MAGIC. Come by and hear about how they transitioned from students to founders of a video game cooperative. 
+
+<!--width="640" height="389"-->
+
+## [Zoom Recording](https://drive.google.com/file/d/1vCtWGCszpOcPZmiYmyrNwYEmK9ZjzKAw/view?usp=sharing)
+
+## Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBZzjWzIEuL7al3eA5PiLPONrvcH02yn5mqram_UXlcgdx9SA3vNGC-f6XmVWLbw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Links
+
+[Aesthetician Labs Website](https://aesthetic.games)
+
+[Discord](https://discord.gg/H776MrYb)
+
