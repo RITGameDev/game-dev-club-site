@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Design Patterns"
-date: 2020-02-13 15:26:19 -0500s
+date: 2021-03-11 15:26:19 -0500s
 categories: resources
 author: Kent Reese 
 ---
 
 Writing better code that doesn't reek of spaghetti and duct tape.
+
+## [Zoom Recording](https://drive.google.com/file/d/1VrhniJJl-bUSgliyuePK5aKberXBPr7U/view?usp=sharing)
 
 ## Presentation
 
