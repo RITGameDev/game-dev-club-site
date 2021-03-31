@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Game Modding"
+date: 2021-03-18 15:26:19 -0500
+categories: resources
+author: Julian Heuser & Eddie Brazier
+---
+
+Modding games is a fun way to get experience working with existing codebases. This time around we're taking a look at the process and tools used to create mods for Half-life 1 and Dark Souls. 
+
+<!--width="640" height="389"-->
+
+## [Zoom Recording](https://drive.google.com/file/d/1cmt9Bmq_cbHcUnBTdvusGaMBXsFll4H4/view?usp=sharing)
+
+## Presentation Part 1
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4a_W9mvvwXk96HLcJcKL3e3WK3CdOw9-7REh07xqPrfPox0nf0l6dNdosx2_V1plndAw8Egy17huw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Presentation Part 2
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSci9TMrZBcvClyhkWrYY7u7igCOxh5T2kuyfo6slt1SWNmWUamvX0fMK965sXaCmiR2Zp5P8WMWMQ7/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Links
+
+[Official Half-Life 1 game code](https://github.com/ValveSoftware/halflife)
+
+[Updated game code for VS 2019](https://github.com/Solokiller/halflife-updated-cmake)
+
+[Dark souls Modding Wiki](http://soulsmodding.wikidot.com/)
+
+[Souls Modding Wiki](https://sites.google.com/view/soulsmods/home?authuser=0)
+
