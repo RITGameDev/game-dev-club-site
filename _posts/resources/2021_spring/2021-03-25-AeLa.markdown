@@ -12,6 +12,8 @@ This week we welcome guest speakers from Aesthetician Labs, a local game develop
 
 ## [Zoom Recording](https://drive.google.com/file/d/1vCtWGCszpOcPZmiYmyrNwYEmK9ZjzKAw/view?usp=sharing)
 
+<iframe width="640" height="389" src="https://www.youtube.com/embed/YZZ_4nIO5-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBZzjWzIEuL7al3eA5PiLPONrvcH02yn5mqram_UXlcgdx9SA3vNGC-f6XmVWLbw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

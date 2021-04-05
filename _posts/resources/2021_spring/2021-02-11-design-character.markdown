@@ -12,6 +12,8 @@ Designing a character to fit the mechanics of an existing game can be challengin
 
 ## [Zoom Recording](https://drive.google.com/file/d/1n4PdClgYrhpvZ7ahBmKE92yymXUM1d23/view?usp=sharing)
 
+<iframe width="640" height="389" src="https://www.youtube.com/embed/J1pCh3ARXZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjpsMoAXUqvDahjy6phAfeptK_SGG12CgrYoj4mv8jBL007HR4BE8tgdan9CKIwfGxRV2d5lFnpMo1/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

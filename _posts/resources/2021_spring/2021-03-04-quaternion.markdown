@@ -12,6 +12,8 @@ Quaternions are the mathematical notation for rotations in 3D space and are noto
 
 ## [Zoom Recording](https://drive.google.com/file/d/1kBkNX2kXHW4U1AefiAXoZv1cBnbbfxl9/view?usp=sharing)
 
+<iframe width="640" height="389" src="https://www.youtube.com/embed/Cu9gHlR08hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUknqkGQ4ibJ0jNrsSt9SKfQJdSOn5AA0ctp-BAyDF7TkStSaVUCXxBb530xEuqQ/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

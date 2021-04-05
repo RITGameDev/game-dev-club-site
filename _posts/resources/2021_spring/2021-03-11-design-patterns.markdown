@@ -10,6 +10,8 @@ Writing better code that doesn't reek of spaghetti and duct tape.
 
 ## [Zoom Recording](https://drive.google.com/file/d/1VrhniJJl-bUSgliyuePK5aKberXBPr7U/view?usp=sharing)
 
+<iframe width="640" height="389" src="https://www.youtube.com/embed/ACx8_axofAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Presentation
 
 <!--width="640" height="389"-->
