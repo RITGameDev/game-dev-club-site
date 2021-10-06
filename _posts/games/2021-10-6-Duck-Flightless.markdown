@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Duck and the Land of Flightless Birds"
-date:   2019-10-6 11:50:19 -0500
+date:   2021-10-6 11:50:19 -0500
 categories: games
 author: Kent Reese
 ---
