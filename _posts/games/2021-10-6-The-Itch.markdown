@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The Itch"
+date:   2019-10-6 11:40:19 -0500
+categories: games
+author: Kent Reese and Dane Sherman
+---
+
+![Itch Title Image]({{ site.url }}\media\post_content\Itch_Header.jpg)
+
+
+## [Steam Page](https://store.steampowered.com/app/1095520/The_Itch/)
+
+Inspired by true allergic reactions, The Itch is a 2D platformer where you transfer and absorb energy from the world around you while searching for a cure to a virus living inside you. Along the way, you'll have to navigate tangled vines, clear up blocked passages, and discover clues about the origin of this deadly virus.
+
+* [Dane's Itch](https://dayn9.itch.io/)
+* [Dane's GitHub](https://github.com/Dayn9)
+* [Dane's Twitter](https://www.twitter.com/Dazyn9)
