@@ -6,7 +6,7 @@ layout: default
 
 ## <i class="material-icons">help_outline</i> Who are we?
 
-RIT Game Dev club provides an open, creative, learning environment for students passionate about game development with weekly presentations on various topics and game jams every semester
+RIT Game Developers Club provides an open, creative, learning environment for RIT students passionate about game development. We aim to bring students across disciplines into one welcoming space by learning together, learning from each other, and creating together. To do this we offer presentations on game development, playtesting nights, and weekend-long game jams.
 
 ## <i class="material-icons">accessibility_new</i> But... I don't know how to make games?
 
